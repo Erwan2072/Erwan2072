@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a full-stack developer with skills in C, JavaS
 
 ## 📊 GitHub Statistics
 
-![Ho2bes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ho2bes&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho2bes&layout=compact&theme=dark)
+![Ho2bes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erwan2072&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwan2072&layout=compact&theme=dark)
 
 
 ## 💻 Tech Stack
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with skills in C, JavaS
 
 ## Total Contributions and Streaks
 
-![Erwan2072's Streak](https://streak-stats.demolab.com?user=Ho2bes&theme=react&card_width=400)
+![Erwan2072's Streak](https://streak-stats.demolab.com?user=Erwan2072&theme=react&card_width=400)
 
 ## 🛠 Technologies Used
 
@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm a full-stack developer with skills in C, JavaS
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ho2bes&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Erwan2072&icon=0&color=0)](https://visitcount.itsvg.in)
